@@ -1,0 +1,2 @@
+# Work Log
+Schedule a mandatory maintenance window for system upgrades
